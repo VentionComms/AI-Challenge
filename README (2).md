@@ -1,3 +1,4 @@
+<img src="pic.png" alt="Sea Battle Pirate" width="300"/>
 # Sea Battle CLI Game
 
 This is a simple command-line interface (CLI) implementation of the classic Sea Battle (Battleship) game, written in JavaScript.
